@@ -1,4 +1,4 @@
-# lit-element-click-outside
+# lit-click-outside
 
 ## What is it?
 

@@ -21,7 +21,7 @@ callback() {
 }
 ```
  */
-export function ClickOutside(
+export function clickOutside(
   opt: ClickOutsideOptions = ClickOutsideOptionsDefaults): any {
     return (proto: LitElement, methodName: string): any  => {
 
